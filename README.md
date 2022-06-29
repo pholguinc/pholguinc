@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://img.shields.io/twitter/follow/tete?logo=twitter&style=for-the-badge" alt="tete" />
+<img src="https://github.com/zaphkielfx/zaphkielfx/blob/main/assets/background.gif"/>
 
 <p align="left"> <a href="https://twitter.com/tete" target="blank"><img src="https://img.shields.io/twitter/follow/tete?logo=twitter&style=for-the-badge" alt="tete" /></a> </p>
 
