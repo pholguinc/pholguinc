@@ -5,15 +5,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+🎓 Soy Pedro Holguín. Ahora mismo estoy cursando la carrera de ingeniería de sistemas e informática.
+💻 Últimamente me apasiona el uso de plataformas bajo linux en lo cual investigo sobre ello mucho.
+✍️ En mis tiempos libres me gusta practicar algo de front-end y diseñar algunos blogs de manera personal.
+🌱 Estoy aprendiendo sobre lo que es inteligencia artificial y aplicaciones móbiles
+👯 Siempre estoy dispuesto a colaborar en algún proyecto en común.
 
 <img src="https://github.com/zaphkielfx/zaphkielfx/blob/main/assets/background.gif"/>
 
@@ -60,10 +57,18 @@ Here are some ideas to get you started:
 ![WINDOWS](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![MAC](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 
-### Heramientas
+### ⚙️ Heramientas
 ![PS](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![MARKDOWN](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zaphkielfx&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+</a>
+</p>
 
 
