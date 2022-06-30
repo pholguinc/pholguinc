@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 -->
-🎓 Soy Pedro Holguín. Ahora mismo estoy cursando la carrera de ingeniería de sistemas e informática.
+🎓 Soy Pedro Holguín. Ahora mismo estoy cursando la carrera de ingeniería de sistemas e informática.\
 💻 Últimamente me apasiona el uso de plataformas bajo linux en lo cual investigo sobre ello mucho.
 ✍️ En mis tiempos libres me gusta practicar algo de front-end y diseñar algunos blogs de manera personal.
 🌱 Estoy aprendiendo sobre lo que es inteligencia artificial y aplicaciones móbiles
