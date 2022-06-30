@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <a href="https://discord.com/users/304472876743000065" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="etert" height="30" width="40" /></a>
 </p>
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://github.com/zaphkielfx/zaphkielfx/blob/main/assets/coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
