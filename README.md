@@ -1,4 +1,3 @@
-### Hi <𝚌𝚘𝚍𝚎𝚛𝚜/>! 👋
 
 <!--
 **zaphkielfx/zaphkielfx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,13 +5,16 @@
 Here are some ideas to get you started:
 
 -->
+
+<img src="https://github.com/zaphkielfx/zaphkielfx/blob/main/assets/background.gif"/>
+
+### Hi <𝚌𝚘𝚍𝚎𝚛𝚜/>! 👋
+
 🎓 Soy Pedro Holguín. Ahora mismo estoy cursando la carrera de ingeniería de sistemas e informática.\
 💻 Últimamente me apasiona el uso de plataformas bajo linux en lo cual investigo sobre ello mucho.\
 ✍️ En mis tiempos libres me gusta practicar algo de front-end y diseñar algunos blogs de manera personal.\
 🌱 Estoy aprendiendo sobre lo que es inteligencia artificial y aplicaciones móbiles.\
 👯 Siempre estoy dispuesto a colaborar en algún proyecto en común.
-
-<img src="https://github.com/zaphkielfx/zaphkielfx/blob/main/assets/background.gif"/>
 
 
 <h3 align="left">Connect with me:</h3>
