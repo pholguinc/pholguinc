@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/tete" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tete" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/pedroholguinc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="etet" height="30" width="40" /></a>
 <a href="https://discord.com/users/304472876743000065" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="etert" height="30" width="40" /></a>
+<a href="wa.link/4ethq8" target="blank"><img align="center" src="https://i.imgur.com/ODfJ1q5.png" alt="etert" height="30" width="40" /></a> 
 </p>
 
 <img alt="Night Coding" src="https://github.com/zaphkielfx/zaphkielfx/blob/main/assets/coding.gif" align="right" width="300" height="300"/>
