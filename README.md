@@ -4,8 +4,8 @@
 
 Here are some ideas to get you started:
 
--->
 
+[
 <img src="https://github.com/zaphkielfx/zaphkielfx/blob/main/assets/background.gif"/>
 
 ### Hi <𝚌𝚘𝚍𝚎𝚛𝚜/>! 👋
@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 ✍️ En mis tiempos libres me gusta practicar algo de front-end y diseñar algunos blogs de manera personal.\
 🌱 Estoy aprendiendo sobre lo que es inteligencia artificial y aplicaciones móbiles.\
 👯 Siempre estoy dispuesto a colaborar en algún proyecto en común.
-
+](url)
 
 <img alt="Night Coding" src="https://github.com/zaphkielfx/zaphkielfx/blob/main/assets/coding.gif" align="right" width="300" height="300"/>
-
+-->
 ### 🛠 &nbsp;Tecnologías
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
